@@ -1,3 +1,4 @@
+ANSWERS TO THE FOLLOWING QUESTIONS ARE UPLOADED IN THE ABOVE FILE(.odt)
 QUESTIONS:
 
     I. List the processes running on your machine
